@@ -1,0 +1,9 @@
+# Assignment 2
+1. Information travels across the internet in packets. For instance, an email may travel across the internet in several different packets, but they don't necesarrily all have to take the same route. The information can travel along different paths and meet up at the end in the same place. If certain paths are blocked the packets have a variety of different routes to choose from, in order to get the information to where it needs to be.
+
+2. An Ip address is an address assigned to a computer to give it an identity on any given network, while a DNS address, or Domain Name Service, is used to convert alphabetic references into a servers IP address for hosting services.
+
+3. Cookies are messages that servers pass on to your browser when you visit particular sites. This makes it so your server can store your information for the next time you visit the site.
+
+4. The protocol, the server name, and the resource ID.
+$$
