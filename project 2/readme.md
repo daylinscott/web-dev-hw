@@ -8,4 +8,4 @@ I'm very excited to start this portion of the course, I feel as though this will
 ## My Work Cycle
 This is the first assignment that I actually had a lot of difficulties with, primarily with the aesthtic of my website. I couldn't figure out what I was doing wrong, but I couldnt get the font for the body of the home page to be any color other than black, and I was trying to put one of my film photos as the background, but having the font black made it too difficult to read. I also had some trouble with the navigation portion; I can navigate from home to "about" and to "contact" but I can't navigate anywhere else from there, I have looked at my code, and it looks correct, so I'm not quite sure what I'm doing wrong, but I will continue to work to understand and fix it.
 
- <img src="./images/proj2screenshot.png" />
+ <img src="./images/proj2screenshot.png">
