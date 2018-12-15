@@ -1,0 +1,26 @@
+body {
+  background-color: #3FB0AC;
+}
+.text {
+   font-size: 32pt;
+   font-family: 'always forever' Trebuchet, Verdana, sans-serif;
+   color: #173E43;
+   text-align: center !important;
+   font-kerning: auto;
+}
+.text p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 2.5em;
+   font-weight: bold;
+.text-2 {
+   font-size: 50%;
+   font-family: 'hammer_keys'Trebuchet, Verdana, sans-serif;
+}
+   color:'#173E43';
+   text-align: center !important;
+}
+.text-3 {
+  font-size: 35%;
+  font-family: 'hammer_keys' Trebuchet, Verdana, sans-serif;
+  text-align: right !important;
+}

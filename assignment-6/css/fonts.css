@@ -1,0 +1,36 @@
+
+
+body {
+   background-color: pink;
+   font-family: 'always forever';
+}
+
+
+h1 {
+   color: purple;
+   text-align: center !important;
+   font-family: 'action jackson'
+}
+h2 {
+  color: purple;
+  text-align: center !important;
+  font-size: 50px
+}
+
+p {
+   color: green;
+   font-size: 30px;
+   text-align: center !important;
+}
+p.styled
+border: 2px, solid purple
+
+}
+.line-horizontal {
+   width: 100%;
+   height: 10px;
+   background-color: green;
+   position: absolute;
+   bottom: 25px;
+   opacity:.5;
+ } /*i was trying to change the oppacity here, but I can't even get the line to show up*/
